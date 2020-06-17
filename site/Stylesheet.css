@@ -1,0 +1,28 @@
+body {
+  background-image: url("P2.jpg");
+  background-attachment: fixed;
+  background-size: 100% 100% ;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+  font-size: 50px;
+}
+
+p {
+  font-family: vardana;
+  font-size: 20px;
+  color: white;
+  text-align: center;
+}
+footer{
+  position: absolute;
+  bottom: 8px;
+  right: 16px;
+  font-size: 16px;
+  color: yellow;
+}
+#email {
+  color: red;
+}
