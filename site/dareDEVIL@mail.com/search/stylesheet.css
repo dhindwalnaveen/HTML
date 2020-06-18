@@ -1,0 +1,59 @@
+img{
+	position: absolute;
+	top: 160px;
+	left: 630px;
+}
+#searchbutton{
+	text-decoration: none;
+	position: absolute;
+	top : 320px;
+	left: 635px;
+}
+#lucky{
+	text-decoration: none;
+	position: absolute;
+	top : 320px;
+	left: 780px;
+	font-family: vardana ;
+}
+input{
+	position: absolute;
+	top : 265px;
+	left: 510px;
+	width: 500px;
+	height: 35px;
+}
+#adver{
+	text-decoration: none;
+	position: absolute;
+  	bottom: 8px;
+  	left: 16px;
+  	font-size: 16px;
+}
+#bussi{
+	text-decoration: none;
+	position: absolute;
+  	bottom: 8px;
+  	left: 120px;
+  	font-size: 16px;
+}
+#about{
+	text-decoration: none;
+	position: absolute;
+  	bottom: 8px;
+  	left: 220px;
+  	font-size: 16px;
+}
+#how{
+	text-decoration: none;
+	position: absolute;
+  	bottom: 8px;
+  	left: 300px;
+  	font-size: 16px;
+}
+p{
+	position: absolute;
+  	bottom: 19px;
+  	left: 16px;
+  	font-size: large;
+}
